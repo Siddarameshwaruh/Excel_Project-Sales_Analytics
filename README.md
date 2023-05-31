@@ -9,6 +9,7 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
   3. Finance Analytics : P & L by year report 
   4. Finance Analytics : P & L by month report 
 
+
 ### Customer performance report 
 
 ![2023-05-31T13_38_32](https://github.com/Siddarameshwaruh/Excel_Project-Sales_Analytics/assets/127327782/7bd51f04-0f14-430e-a49e-6f96386cfbe0)
@@ -24,6 +25,7 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 ### P & L Month 
 
 ![2023-05-31T13_44_05](https://github.com/Siddarameshwaruh/Excel_Project-Sales_Analytics/assets/127327782/7a2c05da-5bbb-4c29-9a8c-5fe22fb55a68)
+
 
 ## Skills Learnt : 
     
