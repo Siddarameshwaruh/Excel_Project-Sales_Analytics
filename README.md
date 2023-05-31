@@ -14,8 +14,7 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
     1. Cleaning data in Power Query
     2. ETL (Extract, Transform, & Load)
     3. Data modeling in Power Pivot
-    4. Advanced data analysis techniques using pivot tables and functions 
-       like VLOOKUP, INDEXMATCH, XLOOKUP, SUMIF, and COUNTIF
+    4. Advanced data analysis techniques using pivot tables and functions like VLOOKUP, INDEXMATCH, XLOOKUP, SUMIF, and COUNTIF
     5. Statistic concepts (Variance, Standard Deviation, Correlation)
     6. User empathetic report design
     7. Creating reports using Pivot tables
