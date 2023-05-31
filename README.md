@@ -10,6 +10,10 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
   4. Finance Analytics : P & L by month report 
 
 
+### Data Modeling : Daigram View 
+
+![2023-05-31T13_55_58](https://github.com/Siddarameshwaruh/Excel_Project-Sales_Analytics/assets/127327782/2bb0ffe8-68f5-47de-9ed4-64e5e37b7180)
+
 
 ### Customer performance report 
 
