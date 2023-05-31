@@ -14,13 +14,16 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 
 ![2023-05-31T13_38_32](https://github.com/Siddarameshwaruh/Excel_Project-Sales_Analytics/assets/127327782/7bd51f04-0f14-430e-a49e-6f96386cfbe0)
 
+
 ### Market performance vs Target
 
 ![2023-05-31T13_40_09](https://github.com/Siddarameshwaruh/Excel_Project-Sales_Analytics/assets/127327782/67267fff-1efa-40e0-840f-5cbece743f8b)
 
+
 ### P & L Year
 
 ![2023-05-31T13_41_21](https://github.com/Siddarameshwaruh/Excel_Project-Sales_Analytics/assets/127327782/82ec424c-0cff-4c88-aef9-159de59518fe)
+
 
 ### P & L Month 
 
